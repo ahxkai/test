@@ -1,0 +1,30 @@
+[
+    {
+        "ver": 4,
+        "nm": "Update 3.89.1 (2024-08-23)",
+        "nfo": "8J+boO+4jyBFbnN1cmluZyBzcGxhc2gtc2NyZWVuIGxvZ28gZG9lc24ndCBzaG93IGluIEFsdC1U\r\nYWINCvCfm6DvuI8gRmFzdGVyIHByZXZpZXdzIGFuZCB0aHVtYm5haWxzIGZvciBsYXJnZSBQREZz\r\nIA0K8J+QniBGaXhlZCBpc3N1ZSB3aGVyZSBzb21lIFBERnMgd291bGQgY3Jhc2ggT0M=",
+        "dl": "https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win.3.89.1.exe",
+        "dt": 45994.0215120602
+    },
+    {
+        "ver": 3,
+        "nm": "Update 3.89 (2024-08-18)",
+        "nfo": "8J+boO+4jyBHZXQgbWFwcGVkIG5ldHdvcmsgZHJpdmUgbmFtZSBmcm9tIEV4cGxvcmVyIGlmIG92\r\nZXJyaWRkZW4NCvCfm6DvuI8gS2VlcCB0YWIgYWxpYXMgb24gZm9sZGVyIGNoYW5nZSAtIG9wdGlv\r\nbiB0byBkaXNhYmxlDQrwn5ug77iPIFNjcmlwdHMgY2FuIGJlIHNob3J0Y3V0ICgubG5rKSBmaWxl\r\ncyB0byB0aGUgYWN0dWFsIHNjcmlwdC4gUmVzb2x2ZWQgb24gcnVuDQrwn46oIEdpZ2FieXRlIHNp\r\nemUgY29sb3JpbmcgZm9sbG93cyBhY2NlbnQgY29sb3INCvCfjqggV2luZG93IGJvcmRlciBpbiBX\r\naW4xMCBzd2l0Y2hlZCB0byBncmF5IGluc3RlYWQgb2YgYWNjZW50IGNvbG9yIGR1ZSB0byBidWcg\r\nc2V0dGluZyBjb2xvcg0K8J+QniBTbWFsbCBidWctZml4ZXM=",
+        "dl": "https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win.3.89.exe",
+        "dt": 45994.0218665278
+    },
+    {
+        "ver": 2,
+        "nm": "Update 3.88 (2024-08-10)",
+        "nfo": "8J+boO+4jyAuc3ZnIHRodW1ibmFpbCBmaXgvd29ya2Fyb3VuZCAoaWYgdGh1bWJzIHNob3cgYXMg\r\ndHJhc3BhcmVudCBkdWUgdG8gYmVpbmcgc2F2ZWQgcHJlLTMuODgsIHJpZ2h0IGNsaWNrIGFuZCBS\r\nZWdlbmVyYXRlKQ0K8J+boO+4jyAuaWNvIGFuZCBpbWFnZS90aHVtYiBmaWxlcyB0aGF0IGFyZSBz\r\nbWFsbGVyIHRoYW4gOTZ4OTYgc2hvdyB3aXRob3V0IGludGVycG9sYXRpb24gKHNtb290aGluZyku\r\nIEdvb2QgZm9yIGljb25zLCBzcHJpdGVzL3RleHR1cmVzLCBldGMNCvCfm6DvuI8gQWNjZW50IGNv\r\nbG9yIGZvbGxvd2luZyBXaW5kb3dzIHNldHRpbmdzLiBPbmx5IHdoZW4gVGhlbWXwn6GiVXNlIHN5\r\nc3RlbSB0aGVtZSBpcyBjaGVja2VkDQrwn5ug77iPIFNvbWUgcGVyZm9ybWFuY2UgaW1wcm92ZW1l\r\nbnRzDQrwn46oIFNtYWxsZXIgc2VhcmNoIGxvY2F0ZSBidXR0b24gDQrwn5CeIEZpeGVkIGZvY3Vz\r\nIGFmdGVyIGRyYWdnaW5nIHRhYiBvdXQNCvCfkJ4gRml4ZWQgbW92aW5nIHRhZ3Mgd2hlbiB1c2lu\r\nZyBFeHBsb3JlciBkaWFsb2dzIGZvciByZW5hbWUNCvCfkJ4gRml4ZWQgZnJlZXppbmcgaW4gUGF0\r\naCBFZGl0IGRyb3Bkb3du",
+        "dl": "https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win.3.88.exe",
+        "dt": 45994.0221978009
+    },
+    {
+        "ver": 1,
+        "nm": "Update 3.87.1 (2024-08-01)",
+        "nfo": "8J+boO+4jyBUaHVtYm5haWxzIGZvciBzeW1ib2xpYyBsaW5rcw0K8J+boO+4jyBUYXNrbWFzdGVy\r\nIDAuOCBzeW1ib2xpYyBsaW5rIG1vdmVzIGxpa2UgRXhwbG9yZXINCvCfkJ4gU21hbGwgYnVnLWZp\r\neGVzIA==",
+        "dl": "https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win.3.87.1.exe",
+        "dt": 45994.0225384375
+    }
+]
