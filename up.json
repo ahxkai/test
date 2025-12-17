@@ -3,7 +3,7 @@
         "ver": 4,
         "nm": "3.89.1 (2024-08-23)",
         "nfo": "8J+boO+4jyBFbnN1cmluZyBzcGxhc2gtc2NyZWVuIGxvZ28gZG9lc24ndCBzaG93IGluIEFsdC1U\r\nYWINCvCfm6DvuI8gRmFzdGVyIHByZXZpZXdzIGFuZCB0aHVtYm5haWxzIGZvciBsYXJnZSBQREZz\r\nIA0K8J+QniBGaXhlZCBpc3N1ZSB3aGVyZSBzb21lIFBERnMgd291bGQgY3Jhc2ggT0M=",
-        "dl": "https://raw.githubusercontent.com/ahxkai/test/refs/heads/main/temp.app.win.3.89.1.exe",
+        "dl": "https://github.com/ahxkai/test/releases/download/test-tag/temp.app.win.3.89.1.exe",
         "dt": 45994.0215120602
     },
     {
@@ -29,3 +29,4 @@
     }
 
 ]
+
