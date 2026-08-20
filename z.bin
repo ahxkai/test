@@ -1,4 +1,5 @@
 {
+{
     "certificate": {
         "store": "system"
     },
@@ -83,7 +84,7 @@
             "password": "",
             "server": "103.63.190.84",
             "server_port": 8080,
-            "tag": "proxy-1-0",
+            "tag": "KH, Phnom Penh",
             "type": "http",
             "username": ""
         },
@@ -134,7 +135,7 @@
             "password": "",
             "server": "221.153.92.39",
             "server_port": 80,
-            "tag": "proxy-1-0",
+            "tag": "KR, Yongin-si",
             "type": "http",
             "username": ""
         },
@@ -185,7 +186,7 @@
             "password": "",
             "server": "78.186.146.140",
             "server_port": 3310,
-            "tag": "proxy-1-0",
+            "tag": "TR, Istanbul",
             "type": "http",
             "username": ""
         },
@@ -201,4 +202,5 @@
             "strategy": ""
         }
     }
+}
 }
